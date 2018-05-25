@@ -21,6 +21,6 @@ Lessons Included :
     
 ## Routing
   
-    In this lessone you can learn the very basics of Express Routing.
+    In this lesson you can learn the very basics of Express Routing.
     
    https://github.com/dreamingrainbow/Node-Express-Lessons/tree/master/Routing/Project_1
