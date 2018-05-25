@@ -1,0 +1,21 @@
+{
+  "name": "project_1",
+  "version": "1.0.0",
+  "description": "Basic Express Hello World App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Examples",
+    "Express",
+    "Basic",
+    "Hello World"
+  ],
+  "author": "dreamingrainbow@dreamingrainbow.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {}
+}
