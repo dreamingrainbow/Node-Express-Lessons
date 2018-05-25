@@ -11,16 +11,16 @@ Lessons Included :
 
     In this lesson you can learn the very basics of creating an Express Server.
     
-    [getting_started_with_express] https://github.com/dreamingrainbow/Node-Express-Lessons/tree/master/Express/Project_1
+   https://github.com/dreamingrainbow/Node-Express-Lessons/tree/master/Express/Project_1
     
 ## Middleware
     
     In this lesson you can learn the very basics of using middleware with an Express Server.
     
-    [getting_started_with_express_middleware] https://github.com/dreamingrainbow/Node-Express-Lessons/tree/master/Middleware/Project_1
+    https://github.com/dreamingrainbow/Node-Express-Lessons/tree/master/Middleware/Project_1
     
 ## Routing
   
     In this lessone you can learn the very basics of Express Routing.
     
-    [getting_started_with_express_routing] https://github.com/dreamingrainbow/Node-Express-Lessons/tree/master/Routing/Project_1
+    https://github.com/dreamingrainbow/Node-Express-Lessons/tree/master/Routing/Project_1
