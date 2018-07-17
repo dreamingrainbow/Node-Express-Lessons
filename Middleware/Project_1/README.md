@@ -40,7 +40,7 @@ First let's grab our `body-parser` module.
 ```JavaScript
 const bodyParser = require('bodyParser');
 ```
-<sub>Take the time to google packaged modules like bodyParser to find out all of the methods available to the module.</sub>
+<sub>Take the time to google packaged modules like bodyParser and cors to find out all of the methods available to the modules.</sub>
 
 Now we implement the `bodyParser` middleware.
 
@@ -50,13 +50,13 @@ server.use(bodyParser.json());
 Question: So what does `bodyParser.json()` do? 
 
 
+Lets add some CORS!
 
 ```JavaScript
 const cors = require('cors');
 ```
-<sub>Take the time to google packaged modules like bodyParser to find out all of the methods available to the module.</sub>
 
-Now we implement the `bodyParser` middleware.
+Now we implement the `cors` middleware.
 
 ```JavaScript
 server.use(cors());
