@@ -49,6 +49,22 @@ server.use(bodyParser.json());
 ```
 Question: So what does `bodyParser.json()` do? 
 
+
+
+```JavaScript
+const cors = require('cors');
+```
+<sub>Take the time to google packaged modules like bodyParser to find out all of the methods available to the module.</sub>
+
+Now we implement the `bodyParser` middleware.
+
+```JavaScript
+server.use(cors());
+```
+Question: So what does `cors()` do? 
+
+
+
 Now, we create our first route, and pass it our first middleware.
 ```JavaScript
 server.route('/').get((req, res) => {
